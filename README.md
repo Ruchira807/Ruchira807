@@ -114,14 +114,13 @@ Some of the communities and projects I've worked with:
 ## GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Ruchira807&show_icons=true&include_all_commits=true&count_private=true&theme=transparent&hide_border=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ruchira807&layout=compact&langs_count=8&theme=transparent&hide_border=true" />
+  <img height="170" src="./profile/stats.svg" alt="GitHub Stats" />
+  <img height="170" src="./profile/top-langs.svg" alt="Top Languages" />
 </p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Ruchira807&theme=transparent&hide_border=true" />
 </p>
-
 ---
 
 ## Contributions
