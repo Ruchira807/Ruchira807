@@ -3,7 +3,7 @@
 ### CSE (AI/ML) Student · Developer · Open Source Contributor
 
 I like building things, breaking things, fixing them, and learning along the way.
-I'm interested in **AI/ML, software development, open source, and hackathons** — especially projects where I can turn an idea into something people can actually use.
+I'm interested in **AI/ML, software development, open source, and hackathons**, especially projects where I can turn an idea into something people can actually use.
 
 <p align="center">
   <a href="https://github.com/Ruchira807">
@@ -79,13 +79,14 @@ An AI-powered quality inspection system for detecting manufacturing defects from
 
 ---
 
-### DocShield
+### EpiWatch System
 
-**Real Estate Document Fraud Prevention**
+**AI-powered epidemic intelligence platform forecasting disease spread**
 
-A document intelligence concept focused on checking property-related documents and identifying inconsistencies or potential risks before a transaction.
+Built an AI-powered epidemic intelligence platform forecasting disease spread across 200+ countries using ARIMA-based
+ML forecasting & implemented hotspot detection, Google Community Mobility integration, and real-time transmission rate (Rt) analysis
 
-`AI/ML` `Document Intelligence` `Python` `Full Stack`
+`React` `Node.js` `Express.js` `ARIMA` `CSSE Dataset` `Google Mobility API`
 
 ---
 
