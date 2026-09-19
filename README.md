@@ -124,27 +124,6 @@ Some of the communities and projects I've worked with:
 </p>
 ---
 
-## Contributions
-
-<p align="center">
-  <picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/Ruchira807/Ruchira807/output/github-snake-dark.svg"
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/Ruchira807/Ruchira807/output/github-snake.svg"
-  />
-  <img
-    src="https://raw.githubusercontent.com/Ruchira807/Ruchira807/output/github-snake.svg"
-    alt="GitHub Contribution Snake"
-  />
-</picture>
-</p>
-
----
-
 Let's Connect
 
 <p align="left"> <a href="https://www.linkedin.com/in/ruchira-nayak-06a607380/"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> <a href="https://github.com/Ruchira807"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /> </a> </p>
